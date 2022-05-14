@@ -6,4 +6,6 @@ import NeuInput from "./lib/NeuInput";
 import NeuSwitch from "./lib/NeuSwitch";
 
 //export { NeuView, NeuBorderView, NeuButton, NeuInput, NeuSpinner, NeuSwitch };
+//"react-native-reanimated": "^1.7.0"
+
 export { NeuView, NeuBorderView, NeuButton, NeuInput, NeuSwitch };

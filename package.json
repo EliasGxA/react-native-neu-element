@@ -26,6 +26,7 @@
   "dependencies": {
     "babel-preset-minify": "^0.5.1",
     "react-native-linear-gradient": "^2.5.6",
+    "react-native-reanimated": "^1.7.0",
     "react-native-svg": "^11.0.1",
     "react-native-text-gradient": "^0.1.7"
   },
